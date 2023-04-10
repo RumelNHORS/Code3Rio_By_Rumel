@@ -1,0 +1,6 @@
+Django==4.2
+python manage.py collectstatic
+Pip install pillow
+pip install whitenoise
+pip install Jinja2
+pip install -U django-jazzmin
